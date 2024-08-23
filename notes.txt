@@ -1,0 +1,13 @@
+Provisioners:
+1. File --> copy a file to target env
+2. local exec  --> execute local command on tf workspace
+3. Remote exec --> execute a command on remote machine via ssh
+
+!LmYh(UQU9nvOf&XdUcH
+//SPN 
+{
+  "appId": "0e5488b2-082c-4fef-9730-ffec9b224dde",
+  "displayName": "azure-cli-2024-08-23-07-27-16",
+  "password": ".bN8Q~DeFN5ipzWmfppsgDrizoGz_JXLK1bLcamL",
+  "tenant": "34dfe5f1-0f62-4907-a68f-cc18f406b167"
+}
