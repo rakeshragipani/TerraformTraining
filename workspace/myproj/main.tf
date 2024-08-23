@@ -9,3 +9,7 @@ module "azure_storage" {
     source = "../modules/storage"
   
 }
+locals {
+sshuname = "rakesh"
+
+}

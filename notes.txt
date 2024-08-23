@@ -1,0 +1,5 @@
+Provisioners:
+1. File --> copy a file to target env
+2. local exec  --> execute local command on tf workspace
+3. Remote exec --> execute a command on remote machine via ssh
+
